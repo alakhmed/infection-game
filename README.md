@@ -5,10 +5,12 @@ You are trying to escape the monsters.
 There are 12 Chapters, just like any other old game.
 
 --------
-layout: 1
+The Game is actually written in Javascript, HTML And CSS.
+--------
 
-AMAMSOANS
 
+--------
+Contact: http://mailto:alahmedkarim9@gmail.com
 --------
 
 
