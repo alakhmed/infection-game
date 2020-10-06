@@ -10,7 +10,7 @@ The Game is actually written in Javascript, HTML And CSS.
 
 
 --------
-Contact: http://mailto:alahmedkarim9@gmail.com
+Contact: alahmedkarim9@gmail.com
 --------
 
 
